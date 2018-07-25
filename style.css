@@ -1,0 +1,13 @@
+body {
+	background-color: #ede9e0;
+}
+#section2 {
+	background-image: url(../img/backround_shape.png); 
+	background-repeat: no-repeat;
+}
+#section4 {
+	background-image: url(../img/backgroun_pattern.png);
+	background-repeat: no-repeat;
+}
+
+
